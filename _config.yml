@@ -57,6 +57,5 @@ remote_theme: b2a3e8/jekyll-theme-console
 header_pages:
   - index.md
   - resume.md
-  - contact.md
   
 footer: '<a href="https://www.instagram.com/sibiyann/">instagram</a> <a href="https://www.linkedin.com/in/rian010/">linkedin</a> <a href="https://github.com/Rian010">github</a> <a href="https://www.youtube.com/@sibiyan">youtube</a>'
