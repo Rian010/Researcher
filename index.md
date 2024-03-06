@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-My name is <font color="coral">MUHAMMAD RIANNOR</font>, but on the internet I go by viking71.
+My name is <font color="coral">MUHAMMAD RIAN</font>, but on the internet I go by viking71.
 
 I’m a <font color="coral">Blockchain Engineer and Security Researcher</font>. Here, you will find awesome cybersecurity and blockchain related blogs.
 
