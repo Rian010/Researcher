@@ -1,5 +1,5 @@
 ---
-title: Yan's'
+title: Yan's
 layout: home
 permalink: /
 ---
